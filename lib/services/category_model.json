@@ -1,0 +1,75 @@
+{
+    "categories": [
+        {
+            "name" : "Women's Traditional Clothing",
+            "subcategory" : [
+                "Marathi'",
+                "Rajasthani'",
+                "Gujarati'"
+            ]
+        },
+        {
+            "name" : "Kid's Traditional Clothing",
+            "subcategory" : [
+                "Marathi'",
+                "Rajasthani'",
+                "Gujarati'"
+            ]
+        },
+        {
+            "name" : "Men's Traditional Clothing",
+            "subcategory" : [
+                "Marathi'",
+                "Rajasthani'",
+                "Gujarati'"
+            ]
+        },
+        {
+            "name" : "Home Decor",
+            "subcategory" : [
+                "Chandelier",
+                "Wall Hangings"
+            ]
+        },
+        {
+            "name" : "Flower Arrangement",
+            "subcategory" : [
+                "Flower Vase",
+                "Fruit Vase",
+                "Bonsai Pot"
+            ]
+        },
+        {
+            "name" : "Wooden Decorative",
+            "subcategory" : [
+                "Bajoot",
+                "Pan Dan",
+                "Dry Fruit Box"
+            ]
+        },
+        {
+            "name" : "Traditional Bags",
+            "subcategory" : [
+                "Purse",
+                "Hand Bag",
+                "Mobile Pouch"
+            ]
+        },
+        {
+            "name" : "Saree's",
+            "subcategory" : [
+                "Silk Saree",
+                "Cotton Saree",
+                "Chiffon Saree"
+            ]
+        },
+        {
+            "name" : "Jewellery",
+            "subcategory" : [
+                "NeckLess",
+                "Ear Rings",
+                "Bangles"
+            ]
+        }
+    ]
+}
